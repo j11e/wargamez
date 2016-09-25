@@ -1,0 +1,2 @@
+samdump2 gives the hashes from the sam+system files ; john or ophcrack gives the passwords from hashes (+ rainbow tables for ophcrack)
+

@@ -1,0 +1,2 @@
+SQLi via cookie double-urldecodé : double-urlencoder un ' sur le cookie login
+ pour ce lvl, juste mettre un ' 

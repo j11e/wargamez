@@ -1,0 +1,13 @@
+STEP 1
+    id = n'importe quoi pour causer une erreur
+
+STEP 2
+    redirection vers erreur.php
+        HTTP_REFERER = "<? validation(); ?>"
+        
+        ====> erreur -> error file créé avec contenu = code php
+
+STEP 3
+    HTTP_ACCEPT_LANGUAGE manipulay pour include le fichier d'erreur créé précédemment
+
+kthxbay

@@ -1,0 +1,2 @@
+no filetype check on form => can submit php script and then access it where it's been uploaded
+to execute arbitrary code

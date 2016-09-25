@@ -1,0 +1,72 @@
+/
+|__ index.cgi (index)
+|__ index.php
+|__ index.html
+|__ about.html
+|__ search.cgi (search) [form]
+      |__ action=.
+      |__ method=get
+      |__ field: search
+|__ news.cgi [form]
+    |__ action=.
+    |__ field: story
+|__ people.cgi (chat) [form]
+    |__ action=.
+    |__ method=get
+    |__ field: room
+    |__ field: search
+|__ people.html
+|__ login.html (login/sign-up form)
+|__ finance/
+|__ mail/
+|__ yweb/
+|__ partners/
+    |__ {$offerNum}/
+    |__ 1/ (smurfs)
+    |__ 2/ (ants)
+        |__ donate.html
+        |__ donate.cgi [form]
+            |__ action: card.cgi
+            |__ method: post
+            |__ field: card
+            |__ field: pin
+            |__ field: amount
+    |__ 3/ (golden flakes)
+        |__ ../../finance/?symbol=gdfl*
+    |__ 4/ (redirect? ldr.nerdd.dk)
+    |__ 5/ (magnifried)
+|__ include/
+    |__ ad.js
+
+
+
+page.pl
+ |__ ./admin/ (File Upload)
+     |__ index.pl (Authentication form) [form]
+          |__ action=.
+          |__ method=post
+          |__ enctype=multipart/form-data
+          |__ field=bs_user
+          |__ field=bs_pass
+ |__ ?page=main (Welcome page)
+ |__ ?page=features (Features)
+ |__ ?page=faq (FAQ)
+ |__ ?page=terms (Terms of Service)
+ |__ ?page=pricing (Pricing)
+ |__ ?page=email (Weebmail) [form]
+      |__ method=webmail.php
+      |__ action=webmail.php
+      |__ field: username
+      |__ field: password
+ |__ order.pl
+e
+      |__ ?package=platinum
+
+============
+   ERRORS
+============
+index.php
+  "Recoding!"
+
+index.html
+  web permit shit

@@ -1,0 +1,12 @@
+ClVLIh4ASCsCBE8lAxMacFMZV2hdVVotEhhUJQNVAmhSRwh6QUcIaAw=
+
+=
+
+{ "showpassword" => "no", "bgcolor"=>"#000000" }
+-> json_encode
+-> xor_encrypt w/ unknown key
+-> base64_encode
+
+so
+
+

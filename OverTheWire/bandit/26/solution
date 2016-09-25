@@ -1,0 +1,2 @@
+5czgV9L3Xx8JPOyRbXh6lQbmIOWvPT6Z
+from more, go to visual mode (v), which is vi, which can start a shell by command :sh. sh is by default the login shell (showtext) but that can be changed by setting the option shell: :set shell sh=/bin/bash

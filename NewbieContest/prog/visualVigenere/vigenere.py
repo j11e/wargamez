@@ -93,19 +93,35 @@ def decrypt_images():
 
             clear_pixels[i,j] = tuple(recomposed_pixel_value)
 
-    clear.save("image_clear", "PNG")
+    # todo: split the image because tesseract sucks ass
+    # need at least to have the 2nd line in its own PNG to read it as french,
+    # whereas the first line must ignore dictionaries to avoid bad results
+
+    # need the .png extension because otherwise tesseract does not recognize PNG?
+    clear.save("image_clear.png", "PNG")
 
 def read_dem_words():
     words = []
 
-    p = subprocess.Popen(['gocr', '-i', 'image_clear'], stdout=subprocess.PIPE)
+    p = subprocess.Popen(['tesseract', '-psm', '3', 'image_clear.png', 'stdout'], stdout=subprocess.PIPE)
     (output, err) = p.communicate()
     print(output)
 
+    p = subprocess.Popen(['tesseract', '-psm', '3', 'image_clear_key.png', 'stdout'], stdout=subprocess.PIPE)
+    (output, err) = p.communicate()
+    print(output)
+
+    # 
     # return output.split(" ")
 
 
 def decrypt_words(cipher, key):
+    # todo: map tesseract's bad recognition of numbers to their actual value
+    tesseract_translation = {
+        "Ey": 3,
+        "todo": 0
+    }
+
     return ["to", "do"]
 
 
@@ -122,4 +138,3 @@ if __name__ == '__main__':
 
     # r = requests.get(url_out, cookies=cookies, params={ "solution": password })
     # print(r.text)
-

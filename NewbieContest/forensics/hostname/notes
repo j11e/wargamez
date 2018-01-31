@@ -1,0 +1,5 @@
+read the registry value for the ComputerName
+
+the name you get is incomplete
+
+strings dump.raw | grep -i c0mputer_for_ch  => find the full version

@@ -1,0 +1,495 @@
+0x000000003da009d0      8      0 -W---- \Device\HarddiskVolume2\Users\NC\AppData\Roaming\Microsoft\Windows\Cookies\nc@www.msn[1].txt
+0x000000003da00d48      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\MDZDVDU3\round2[1].png
+0x000000003da00ec8      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\DX6B7AOT\round1[1].png
+0x000000003da02268      1      0 R--rw- \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\SWS0Y3JW\dkn-ocrxJB6[1].js
+0x000000003da023b0      8      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\Content\8890A77645B73478F5B1DED18ACBF795_1E5D470765E0BE1964814B1F5A3581DC
+0x000000003da02918      2      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\C1F94CD5CA263ECFB1A4BAB1B832C909
+0x000000003da05878      2      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\8059E9A0D314877E40FE93D8CCFB3C69_F143ED572A5AE1EA3E4803B606227802
+0x000000003da06830      2      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\3388ECC3F7BC4A9271C10ED8621E5A65_EAB16BFB11501B6E7DF3938BFC951B9E
+0x000000003da06d58      2      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\7D266D9E1E69FA1EEFB9699B009B34C8_0A9BFDD75B598C2110CBF610C078E6E6
+0x000000003da06e10      8      0 R--rw- \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\DX6B7AOT\8v2_hdH4Nfm[1].js
+0x000000003da31158      3      1 R--rwd \Device\HarddiskVolume2\Users\NC\AppData\Roaming\Microsoft\Windows\Libraries
+0x000000003da349e0      2      1 R--rwd \Device\HarddiskVolume2\Users\NC\Videos
+0x000000003da4a918      1      1 RW-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Explorer\thumbcache_sr.db
+0x000000003da4acb0      2      0 R--rwd \Device\HarddiskVolume2\Users\NC\AppData\Roaming\Microsoft\Windows\Recent\desktop.ini
+0x000000003dc007a8      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\MDZDVDU3\BBrPa7y[1].png
+0x000000003dc00ba8      8      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\SWS0Y3JW\BBrQkv9[1].jpg
+0x000000003dc02650      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\QUC9Q4JU\a8b30cbd6990;kvmsft_pagetype=homepage;kvpg=msn%2Ffr-fr;kvugc=0;kvmn=MSNFRFR15;kvgrp=878658959;kvismob=2;extmirroring=0;kvtile=1;target=_blank;aduho=120;grp=878658959[1]
+0x000000003dc035e8      8      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\DX6B7AOT\BB5XrG4[1].png
+0x000000003dc0a038      2      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\0F1583FFF42FFF476A09801ACB69213F_E3F4A8C96454D7D3441D2C1BCE81F875
+0x000000003dc0a368      2      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\A27A0B5E1ECAAA01CC77385E9FA4AC43_7F02701C68783F94767F718D0A20CFD2
+0x000000003dc0a558      7      1 RWDrwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Temp\~DF37921E01910976B7.TMP
+0x000000003dc0b878      8      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\Roaming\Microsoft\Protect\S-1-5-21-578852208-3866901311-3996999638-1001\4f419cc3-369b-4c9a-957a-ee9eeda235d6
+0x000000003dc0bdc0      8      0 RW---- \Device\HarddiskVolume2\Users\NC\AppData\Roaming\Microsoft\Protect\CREDHIST
+0x000000003dc0da10      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Roaming\Microsoft\Windows\Cookies\nc@www.bing[2].txt
+0x000000003dc0dbe8      8      0 R--rw- \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\QUC9Q4JU\adsWrapperMSNI[1].js
+0x000000003dc0ec98      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\SWS0Y3JW\a8b30cbd6990;kvmsft_pagetype=homepage;kvpg=msn%2Ffr-fr;kvugc=0;kvmn=MSNFRFR11;kvgrp=878658959;kvismob=2;extmirroring=0;kvtile=2;target=_blank;aduho=120;grp=878658959[1]
+0x000000003dc21d00      8      0 -W---- \Device\HarddiskVolume2\Users\NC\AppData\Roaming\Microsoft\Windows\Cookies\nc@serving-sys[1].txt
+0x000000003dc22f80      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\SWS0Y3JW\sync[1]
+0x000000003dc2d038      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\QUC9Q4JU\adServer[2].htm
+0x000000003dc2e1e8      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\MDZDVDU3\BBrR2yf[1].jpg
+0x000000003dc2e8b0      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\DX6B7AOT\BBrPDWs[1].jpg
+0x000000003dc2edd8      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\QUC9Q4JU\BBrO1PQ[2].jpg
+0x000000003dc34938      1      1 RW---- \Device\HarddiskVolume2\Users\NC\ntuser.dat.LOG2
+0x000000003dc37458      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\DX6B7AOT\a8b30cbd6990;kvmsft_pagetype=homepage;kvpg=msn%2Ffr-fr;kvugc=0;kvmn=MSNFRFR14;kvgrp=878658959;kvismob=2;extmirroring=0;kvtile=3;target=_blank;aduho=120;grp=878658959[1]
+0x000000003dc37c68      8      0 -W---- \Device\HarddiskVolume2\Users\NC\AppData\Roaming\Microsoft\Windows\Cookies\nc@at.atwola[1].txt
+0x000000003dc38440      2      0 -W---- \Device\HarddiskVolume2\Users\NC\AppData\Roaming\Microsoft\Windows\Cookies\nc@adformdsp[1].txt
+0x000000003dc38708      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\SWS0Y3JW\BBrQQog[1].jpg
+0x000000003dc388c8      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\DX6B7AOT\BBrPCAI[1].jpg
+0x000000003dc38bc8      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\QUC9Q4JU\BB3UM5Y[1].png
+0x000000003dc38db0      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\QUC9Q4JU\BBrQXFS[1].jpg
+0x000000003dc394a8      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\QUC9Q4JU\BBrPzFR[2].jpg
+0x000000003dc39560      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\QUC9Q4JU\BBrPrBD[1].jpg
+0x000000003dc39798      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\QUC9Q4JU\BBrNNw3[1].jpg
+0x000000003dc399b8      2      0 -W---- \Device\HarddiskVolume2\Users\NC\AppData\Roaming\Microsoft\Windows\Cookies\nc@bs.serving-sys[3].txt
+0x000000003dc39c30      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\QUC9Q4JU\AA3dLvO[1].png
+0x000000003dc39d38      8      0 -W---- \Device\HarddiskVolume2\Users\NC\AppData\Roaming\Microsoft\Windows\Cookies\nc@track.adform[1].txt
+0x000000003dc3a890      2      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\E4F76C0C82655FD6506668127FA0ACD1_EBB0C0D099CF76DE9427E8B0A0F9FA5F
+0x000000003dc3abe0      8      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\SWS0Y3JW\BB96kvK[1].png
+0x000000003dc3af80      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\DX6B7AOT\frame3[1].png
+0x000000003dc3b868      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\QUC9Q4JU\695635[1].js
+0x000000003dc3c450      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\MDZDVDU3\4-6-7-22121[1].js
+0x000000003dc3c628      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Roaming\Microsoft\Windows\Cookies\nc@bs.serving-sys[1].txt
+0x000000003dc3ccf8      2      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\828298824EA5549947C17DDABF6871F5_334ED69A36BF882B447815998BE46E97
+0x000000003dc3d330      1      1 RW---- \Device\HarddiskVolume2\Users\NC\NTUSER.DAT
+0x000000003dc3d680      2      1 RW-r-- \Device\HarddiskVolume2\Users\NC\NTUSER.DAT{6cced2f1-6e01-11de-8bed-001e0bcd1824}.TMContainer00000000000000000002.regtrans-ms
+0x000000003dc3d800      2      1 RW-r-- \Device\HarddiskVolume2\Users\NC\NTUSER.DAT{6cced2f1-6e01-11de-8bed-001e0bcd1824}.TM.blf
+0x000000003dc3e688      8      0 R--rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\History\desktop.ini
+0x000000003dc3f380      1      1 RW---- \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\UsrClass.dat
+0x000000003dc3f748      1      1 RW---- \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\UsrClass.dat.LOG1
+0x000000003dc3fec0      2      1 RW-r-- \Device\HarddiskVolume2\Users\NC\NTUSER.DAT{6cced2f1-6e01-11de-8bed-001e0bcd1824}.TMContainer00000000000000000001.regtrans-ms
+0x000000003dc40038      1      1 RW---- \Device\HarddiskVolume2\Users\NC\ntuser.dat.LOG1
+0x000000003dc40b28      8      1 RW-rw- \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\History\History.IE5\index.dat
+0x000000003dc40c70      1      1 RW---- \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\UsrClass.dat.LOG2
+0x000000003dc40d28      2      1 RW-r-- \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\UsrClass.dat{bba63b0f-c812-11e5-aa02-000c2913a1d4}.TM.blf
+0x000000003dc41e38      2      1 R--rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Credentials
+0x000000003dc42510      2      1 R--rwd \Device\HarddiskVolume2\Users\NC\Desktop
+0x000000003dc42608      8      0 R--rw- \Device\HarddiskVolume2\Users\NC\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\Internet Explorer.lnk
+0x000000003dc44578      2      1 R--rwd \Device\HarddiskVolume2\Users\NC\AppData\Roaming\Microsoft\Credentials
+0x000000003dc4ef80      2      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\1BB09BEEC155258835C193A7AA85AA5B_CE180F90265F66D4DABF21F9DC27B8AA
+0x000000003dc5ea10      2      0 R--rw- \Device\HarddiskVolume2\Users\NC\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\Windows Explorer.lnk
+0x000000003dc6eb70      2      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\024823B39FBEACCDB5C06426A8168E99_EF0C6A6F6DA297B5725527A0EA2901DD
+0x000000003dc7a860      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Roaming\Microsoft\Windows\Cookies\nc@bing[1].txt
+0x000000003dc7e038      2      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\0CCA7F4B3366C6FAA13012C139D5D8C6_6975E1F12011FA19DF3C28F7F53208A6
+0x000000003dc7e298      8      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\Roaming\Microsoft\Protect\S-1-5-21-578852208-3866901311-3996999638-1001\Preferred
+0x000000003dc7e8d0      2      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\MDZDVDU3\post_adtech[2].gif
+0x000000003dc7eeb8      2      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\828298824EA5549947C17DDABF6871F5_D1BCEE7E304F0D5FB8AA811D9B2D0835
+0x000000003dc823e8      2      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\3388ECC3F7BC4A9271C10ED8621E5A65_749F3F848C5AAA3D2A7A65B88524B1D7
+0x000000003dc83d50      8      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\9BC2FFC5D9591E1BD3545230E9B7CC36_CF30943571F9BEE96C487B2D9F0436E6
+0x000000003dc8a558      8      0 R--rw- \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Caches\cversions.1.db
+0x000000003dc912c0      8      0 R--rwd \Device\HarddiskVolume2\Users\NC\Desktop\desktop.ini
+0x000000003dc96ac0      2      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\Content\D47DBD2F9E3365FBBE008D71FB06716F_D33192D58AA9CA2B9097E848E9FE86DE
+0x000000003dc96be0      3      1 R--rwd \Device\HarddiskVolume2\Users\NC\AppData\Roaming\Microsoft\SystemCertificates\My
+0x000000003dc97038      8      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\C46E7B0F942663A1EDC8D9D6D7869173_D9B9F37ECE595B0B7B6AA12451D392CF
+0x000000003dc973b8      2      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\Content\705A76DE71EA2CAEBB8F0907449CE086_99952439D59EE7ACD545F3E9A8C1FC79
+0x000000003dc97658      8      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\705A76DE71EA2CAEBB8F0907449CE086_99952439D59EE7ACD545F3E9A8C1FC79
+0x000000003dc97948      2      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\Content\9BC2FFC5D9591E1BD3545230E9B7CC36_CF30943571F9BEE96C487B2D9F0436E6
+0x000000003dc97e00      2      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\Content\C46E7B0F942663A1EDC8D9D6D7869173_D9B9F37ECE595B0B7B6AA12451D392CF
+0x000000003dc98e98      2      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\42B9A473B4DAF01285A36B4D3C7B1662_178C086B699FD6C56B804AF3EF759CB5
+0x000000003dc995c8     10      1 R--rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Feeds\{5588ACFD-6436-411B-A5CE-666AE6A92D3D}~\WebSlices~\Sites suggérés~.feed-ms
+0x000000003dc9a9a0      2      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\Content\F293AEAD5E84FACFB686C4A620718928_C8424A0B24A72939B13720D0C000C9C1
+0x000000003dc9ac78      8      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\F293AEAD5E84FACFB686C4A620718928_C8424A0B24A72939B13720D0C000C9C1
+0x000000003dc9b3b8      8      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\94308059B57B3142E455B38A6EB92015
+0x000000003dc9bc08      1      0 R--rw- \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\QUC9Q4JU\VXcANLwwL5J[1].js
+0x000000003dc9c1b0      2      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\FB788E090BC1F3AA2FBC9E8FB2859601
+0x000000003dc9dc58      7      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Caches\{AFBF9F1A-8EE8-4C77-AF34-C647E37CA0D9}.1.ver0x0000000000000007.db
+0x000000003dc9f560      1      1 R--rw- \Device\HarddiskVolume2\Users\NC\Desktop
+0x000000003dca6810      5      0 R--r-d \Device\HarddiskVolume2\Program Files\RealVNC\VNC Server\vncserverui.exe
+0x000000003dca8f80      2      2 ------ \Device\NamedPipe\RealVNC.Système.vncserver.vncpipehelper.1249986771
+0x000000003dcac038      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\DX6B7AOT\BBaIg2x[1].png
+0x000000003dcac2c8      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\QUC9Q4JU\BBrPLnt[1].jpg
+0x000000003dcacc60      8      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\Content\82414F9D7AB8999991FFEB2BC378A4EB_38D56666351D269F7164E27288CE56DE
+0x000000003dcb09f0      2      1 R--rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Burn
+0x000000003dcb7580      2      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\223DE96EE265046957A660ED7C9DD9E7_EFF9B9BA98DEAA773F261FA85A0B1771
+0x000000003dcb7da8      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\MDZDVDU3\adfserve[1]
+0x000000003dcbabb0      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\QUC9Q4JU\adfstub[1]
+0x000000003dcbb9a8      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\QUC9Q4JU\index[1].htm
+0x000000003dcbcb40      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\SWS0Y3JW\adfscript[1]
+0x000000003dcbcca8      2      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\7B2238AACCEDC3F1FFE8E7EB5F575EC9
+0x000000003dcbdf80      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\DX6B7AOT\format[1].css
+0x000000003dcbe448      2      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\A89DFCC31C360BA5CBD616749B1B1C5D
+0x000000003dcbe820      2      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\A34B45DD28A5DAEFDA3E0BA2FCE7DE24_60740C68A37421641388AA583B9261AF
+0x000000003dcbed38      2      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\40E450F7CE13419A2CCC2A5445035A0A_97482851B9CF8FBB790FA8AEAB0C772D
+0x000000003dcbf8b8      2      1 R--rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Burn
+0x000000003dcc0b40      3      1 R--rwd \Device\HarddiskVolume2\Users\NC\AppData\Roaming\Microsoft\Windows\Recent
+0x000000003dcd4100      2      1 R--rwd \Device\HarddiskVolume2\Users\NC\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned
+0x000000003dcd61e8      2      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\EDC238BFF48A31D55A97E1E93892934B_C20E0DA2D0F89FE526E1490F4A2EE5AB
+0x000000003dcd6740      8      0 R--rw- \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\QUC9Q4JU\QPeGGdzlBNP[1].css
+0x000000003dcd7550      1      0 R--rw- \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\DX6B7AOT\QllrkVrzBXZ[1].js
+0x000000003dcd9d48      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\SWS0Y3JW\StubHelper[1].js
+0x000000003dcda668      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\MDZDVDU3\custom[1].css
+0x000000003dcdb1c0      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\SWS0Y3JW\txt_1[1].png
+0x000000003dcdb278      1      1 RW-rw- \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Feeds\{5588ACFD-6436-411B-A5CE-666AE6A92D3D}~\WebSlices~\Galerie de composants Web Slice~.feed-ms
+0x000000003dce0788      2      1 R--rwd \Device\HarddiskVolume2\Users\NC\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned
+0x000000003dce1b50      2      1 R--rwd \Device\HarddiskVolume2\Users\NC\Links
+0x000000003dce2928      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\QUC9Q4JU\pink_front[1].png
+0x000000003dce2ba8      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\MDZDVDU3\BBrPvZg[1].jpg
+0x000000003dceb408      8      0 R--rwd \Device\HarddiskVolume2\Users\NC\Documents\desktop.ini
+0x000000003dceb588      8      0 R--rwd \Device\HarddiskVolume2\Users\NC\AppData\Roaming\Microsoft\Windows\Libraries\desktop.ini
+0x000000003dcedce8      2      1 R--rwd \Device\HarddiskVolume2\Users\NC\AppData\Roaming\Microsoft\Windows\Start Menu
+0x000000003dcedf80      2      1 R--rwd \Device\HarddiskVolume2\Users\NC\AppData\Roaming\Microsoft\Windows\Start Menu
+0x000000003dcee770      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\MDZDVDU3\BB4vlup[1].png
+0x000000003dceeb58      6      0 RW-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Explorer\thumbcache_32.db
+0x000000003dcf6358      6      1 RW-rw- \Device\HarddiskVolume2\Users\NC\AppData\Roaming\Microsoft\Windows\IETldCache\index.dat
+0x000000003dcf6be0      2      0 R--rw- \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\MDZDVDU3\whap[1].js
+0x000000003dcf6e18      1      1 RW-rw- \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\index.dat
+0x000000003dcf7230      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\DX6B7AOT\BBrOK3z[1].jpg
+0x000000003dcf7708      8      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\5457A8CE4B2A7499F8299A013B6E1C7C_CE50F893881D43DC0C815E4D80FAF2B4
+0x000000003dcf8280      2      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\Content\40E450F7CE13419A2CCC2A5445035A0A_06F02B1F13AB4B11B8FC669BDE565AF1
+0x000000003dcf83c8      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\DX6B7AOT\adm-loader[1].gif
+0x000000003dcf8c60      2      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\SWS0Y3JW\async_usersync[1].html
+0x000000003dcf8d18      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\DX6B7AOT\custom[1].js
+0x000000003dcfd818      2      1 R--rwd \Device\HarddiskVolume2\Users\NC\AppData\Roaming\Microsoft\Windows\Libraries
+0x000000003dcff930      8      0 RW-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Explorer\thumbcache_idx.db
+0x000000003dd0b720      6      0 RW-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Explorer\thumbcache_256.db
+0x000000003dd0b9d8      6      0 RW-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Explorer\thumbcache_96.db
+0x000000003dd0d618      8      0 RW-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Explorer\thumbcache_1024.db
+0x000000003dd0dba0      8      0 RW-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Explorer\thumbcache_sr.db
+0x000000003dd10190      8      0 R--rwd \Device\HarddiskVolume2\Users\NC\AppData\Roaming\Microsoft\Windows\Libraries\Pictures.library-ms
+0x000000003dd10a20      2      1 R--rwd \Device\HarddiskVolume2\Users\NC\AppData\Roaming\Microsoft\Windows\Libraries
+0x000000003dd122d8      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\SWS0Y3JW\BBrQexG[1].jpg
+0x000000003dd125b0      8      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\SWS0Y3JW\BBrQGTC[1].jpg
+0x000000003dd12668      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\DX6B7AOT\AA42hwj[1].png
+0x000000003dd12bb8      8      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\DX6B7AOT\BBrQfNb[1].jpg
+0x000000003dd131f0      8      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\MDZDVDU3\BBrQ1Cn[1].jpg
+0x000000003dd13b38      8      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\Content\5457A8CE4B2A7499F8299A013B6E1C7C_CE50F893881D43DC0C815E4D80FAF2B4
+0x000000003dd13db0      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\SWS0Y3JW\circle_large[1].png
+0x000000003dd14038      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\QUC9Q4JU\E16FSw1qO3P[1].css
+0x000000003dd14238      2      0 R--rwd \Device\HarddiskVolume2\Users\NC\Contacts\desktop.ini
+0x000000003dd143b8      2      0 R--rwd \Device\HarddiskVolume2\Users\NC\Searches\desktop.ini
+0x000000003dd14538      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\DX6B7AOT\uRi_cozcrKv[2].js
+0x000000003dd145f0      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\SWS0Y3JW\RQwDsJOic5p[1].css
+0x000000003dd14978      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\QUC9Q4JU\txt_2[1].png
+0x000000003dd15140      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\DX6B7AOT\cta[1].png
+0x000000003dd155f0      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\DX6B7AOT\adfscript[1]
+0x000000003dd17810      8      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\QUC9Q4JU\BBrPTVT[1].jpg
+0x000000003dd178c8      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\MDZDVDU3\AA8qKzy[1].png
+0x000000003dd17ab0      8      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\MDZDVDU3\BBrP7oL[1].jpg
+0x000000003dd17ec8      8      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\QUC9Q4JU\BBrQlQT[1].jpg
+0x000000003dd18418      2      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\EB2C4AB8B68FFA4B7733A9139239A396_D76DB901EE986B889F30D8CC06229E2D
+0x000000003dd186c8      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\MDZDVDU3\jquery.min[1].js
+0x000000003dd189a0      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\SWS0Y3JW\AA3dThl[1].png
+0x000000003dd18c50      8      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\MDZDVDU3\BBrPAnM[1].jpg
+0x000000003dd194d8      3      1 RWDrwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Temp\~DFB53C5C18909B9E7A.TMP
+0x000000003dd1a388      8      0 R--rwd \Device\HarddiskVolume2\Users\NC\AppData\Roaming\Microsoft\Windows\Libraries\Music.library-ms
+0x000000003dd1aeb8      8      0 R--rwd \Device\HarddiskVolume2\Users\NC\Pictures\desktop.ini
+0x000000003dd24038      8      0 R--rw- \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\MDZDVDU3\ALQOIWXunGL[1].js
+0x000000003dd26998      2      0 -W---- \Device\HarddiskVolume2\Users\NC\AppData\Roaming\Microsoft\Windows\Cookies\nc@scorecardresearch[1].txt
+0x000000003dd3c308      8      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\40E450F7CE13419A2CCC2A5445035A0A_06F02B1F13AB4B11B8FC669BDE565AF1
+0x000000003dd3c6f0      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\DX6B7AOT\pink_back[1].png
+0x000000003dd3c7c0      8      0 -W---- \Device\HarddiskVolume2\Users\NC\AppData\Roaming\Microsoft\Windows\Cookies\nc@msn[1].txt
+0x000000003dd3fb30      8      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\SWS0Y3JW\BBrQXgA[1].jpg
+0x000000003dd3fdc8      2      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\QUC9Q4JU\qsonhs[1].aspx
+0x000000003dd3ff80      8      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\MDZDVDU3\BBrQUnb[1].jpg
+0x000000003dd40038      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\MDZDVDU3\BB9FJ0B[1].png
+0x000000003dd40b50      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\SWS0Y3JW\BBrMW0B[1].jpg
+0x000000003dd41498      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\MDZDVDU3\BBaWGrq[1].png
+0x000000003dd430e8      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\MDZDVDU3\BBrKbTS[1].jpg
+0x000000003dd431a8     10      1 R--rw- \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Feeds\FeedsStore.feedsdb-ms
+0x000000003dd43ab8      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\DX6B7AOT\BB2Iu8Y[1].png
+0x000000003dd45038      2      1 R--rwd \Device\HarddiskVolume2\Users\NC\AppData\Roaming\Microsoft\Windows\Printer Shortcuts
+0x000000003dd45348      2      1 R--rwd \Device\HarddiskVolume2\Users\NC\AppData\Roaming\Microsoft\Windows\Printer Shortcuts
+0x000000003dd48a78      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\MDZDVDU3\bg[1].jpg
+0x000000003dd49b78      8      0 R--rw- \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\SWS0Y3JW\wy_GlkfoLe_[1].js
+0x000000003dd4d1c0      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\QUC9Q4JU\BBrOecB[1].jpg
+0x000000003dd4d460      2      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\696F3DE637E6DE85B458996D49D759AD
+0x000000003dd4dbe0      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\SWS0Y3JW\BBrNuJx[1].jpg
+0x000000003dd4dc98      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\SWS0Y3JW\BBrPcQc[1].jpg
+0x000000003dd4e308      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\DX6B7AOT\BB1pela[1].png
+0x000000003dd4ee10      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\MDZDVDU3\BBrQikM[1].jpg
+0x000000003dd4eec8      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\MDZDVDU3\BBocNod[1].png
+0x000000003dd4ef80      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\SWS0Y3JW\AA2r9p7[1].png
+0x000000003dd4f660      1      1 RW-rw- \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\index.dat
+0x000000003dd50620      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\SWS0Y3JW\BB49h17[1].png
+0x000000003dd50e78      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\DX6B7AOT\BB5JZbx[1].png
+0x000000003dd51038      8      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\QUC9Q4JU\BBrNKVg[1].jpg
+0x000000003dd51400      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Roaming\Microsoft\Windows\Cookies\nc@estat[1].txt
+0x000000003dd514b8      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\MDZDVDU3\BBhMrB[1].png
+0x000000003dd51c30      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\MDZDVDU3\BBrQgn3[1].jpg
+0x000000003dd51d38      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\QUC9Q4JU\BBrQ1hR[1].jpg
+0x000000003dd51f80      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\DX6B7AOT\BBrPY15[1].jpg
+0x000000003dd52f80      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\MDZDVDU3\BBrPvPB[1].jpg
+0x000000003dd6bb50      1      1 RW-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Explorer\thumbcache_1024.db
+0x000000003dd6d370      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\SWS0Y3JW\BBrNEGh[1].jpg
+0x000000003dd6d558      8      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\MDZDVDU3\BBrPcG8[1].jpg
+0x000000003dd6d960      8      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\QUC9Q4JU\BBrPbZv[1].jpg
+0x000000003dd6db48      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\QUC9Q4JU\BBrP4YZ[1].jpg
+0x000000003dd6dc50      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\DX6B7AOT\AA3dQHX[1].png
+0x000000003dd6e198      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\MDZDVDU3\BBrMWX7[1].jpg
+0x000000003dd6e318      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\MDZDVDU3\BBrPevg[1].jpg
+0x000000003dd6e528      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\SWS0Y3JW\BB9FwXo[1].png
+0x000000003dd6e7a0      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\MDZDVDU3\BBrI3jx[1].jpg
+0x000000003dd6f298      8      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\DX6B7AOT\BBrIe5o[1].jpg
+0x000000003dd6f930      7      1 RWDrwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Temp\~DFC8C3ABB6EC936909.TMP
+0x000000003dd6fb68      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\SWS0Y3JW\BBrP0vy[1].jpg
+0x000000003dd70038      8      0 R--rw- \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\QUC9Q4JU\MlGeflSwpqs[1].js
+0x000000003dd70ac8      2      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\8059E9A0D314877E40FE93D8CCFB3C69_AD05E87D53DDC08B4C5A4F26FAA16D55
+0x000000003dd70be8      8      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\DX6B7AOT\AA8PhL0[1].jpg
+0x000000003dd70d58      8      0 -W---- \Device\HarddiskVolume2\Users\NC\AppData\Roaming\Microsoft\Windows\Cookies\nc@advertising[1].txt
+0x000000003dd719e0      2      0 R--rw- \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\SWS0Y3JW\JcZLvUy_c8-[1].js
+0x000000003dd71e10      2      0 R--rw- \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\DX6B7AOT\QilD8WGfZiV[1].js
+0x000000003dd72038      8      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\QUC9Q4JU\BBrPurQ[1].jpg
+0x000000003dd72240      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\QUC9Q4JU\BBrNKwU[1].jpg
+0x000000003dd725a8      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\QUC9Q4JU\BBrPWKh[1].jpg
+0x000000003dd72c80      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\DX6B7AOT\GPOhzne-bP8[2].css
+0x000000003dd72ec8      8      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\SWS0Y3JW\BBrNIro[1].jpg
+0x000000003dd72f80      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\SWS0Y3JW\BBgykIH[1].png
+0x000000003dd73180      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\QUC9Q4JU\BBirK2L[1].png
+0x000000003dd732c8      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\DX6B7AOT\BB1hfaW[2].png
+0x000000003dd73410      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\SWS0Y3JW\BBrKMPM[1].jpg
+0x000000003dd73870      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\MDZDVDU3\BBrtQWz[1].jpg
+0x000000003dd73c78      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\MDZDVDU3\BBrNNw3[1].jpg
+0x000000003dd73f80      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\MDZDVDU3\BBrKbxE[1].jpg
+0x000000003dd744d8      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\MDZDVDU3\BBrOO4X[1].jpg
+0x000000003dd74b08      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\DX6B7AOT\BBrK3sd[1].jpg
+0x000000003dd87b10     13      0 RW-rw- \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Media Player\CurrentDatabase_372.wmdb
+0x000000003dd88420      1      0 R--rwd \Device\HarddiskVolume2\Users\NC\AppData\Roaming\Microsoft\Windows\SendTo\Desktop.ini
+0x000000003dd8c278      1      0 R--rwd \Device\HarddiskVolume2\Users\NC\AppData\Roaming\Microsoft\Windows\SendTo\Fax Recipient.lnk
+0x000000003dd91278      2      0 R--rwd \Device\HarddiskVolume2\Users\NC\AppData\Roaming\Microsoft\Windows\Libraries\Videos.library-ms
+0x000000003dd92038      2      1 R--rwd \Device\HarddiskVolume2\Users\NC\Videos
+0x000000003dd93038      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\SWS0Y3JW\BBrQ2ER[1].png
+0x000000003dd932e8      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\SWS0Y3JW\fKfjuaEwIUG[1].css
+0x000000003dd93590      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\MDZDVDU3\BBrGsYT[1].jpg
+0x000000003dd93880      8      0 R--rw- \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\SWS0Y3JW\XhEAMpdbL1F[1].js
+0x000000003dd93b40      8      0 R--rw- \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\MDZDVDU3\FRTga76lBza[1].js
+0x000000003dd93eb8      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\QUC9Q4JU\BB1hGgZ[1].png
+0x000000003dd94310      8      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\DX6B7AOT\BBrKFtL[1].jpg
+0x000000003dd94700      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\DX6B7AOT\BBpJjWi[1].jpg
+0x000000003dd94ad8      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\SWS0Y3JW\BBghYLI[1].png
+0x000000003dd94b90      8      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\MDZDVDU3\BBrPBgm[1].jpg
+0x000000003dd95178      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\SWS0Y3JW\BB3clh3[1].png
+0x000000003dd95a70      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\MDZDVDU3\BBrKigW[1].jpg
+0x000000003dd96038      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\QUC9Q4JU\AAbCQ89[2].png
+0x000000003dd962e8      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\QUC9Q4JU\BBrP8g2[1].jpg
+0x000000003dd963f0      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\MDZDVDU3\BBrLcGu[1].jpg
+0x000000003dd96ce8      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\MDZDVDU3\AA4BKPz[1].png
+0x000000003dd96e68      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\DX6B7AOT\BBrOfn4[1].jpg
+0x000000003dd97aa8      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\DX6B7AOT\BBrOC5D[1].jpg
+0x000000003dd97bc8      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\QUC9Q4JU\BBrOVaA[1].jpg
+0x000000003dd97db0      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\SWS0Y3JW\BBrNkVp[1].jpg
+0x000000003dd98100      7      1 RWDrwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Temp\~DFC607B40CD15E7464.TMP
+0x000000003dd98280      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\MDZDVDU3\BBrwQWL[1].jpg
+0x000000003dd988d0      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\SWS0Y3JW\BBrLfdb[1].jpg
+0x000000003dd99038      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\DX6B7AOT\BBi5eY[2].png
+0x000000003dd992f0      8      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\MDZDVDU3\BBrL0lm[1].jpg
+0x000000003dd99738      8      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\QUC9Q4JU\BBrvO7j[1].png
+0x000000003dd999a0      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\DX6B7AOT\BBrNdf3[1].jpg
+0x000000003dd99c28      8      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\SWS0Y3JW\BBqpvp3[1].jpg
+0x000000003dd99df0      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\QUC9Q4JU\BBrO3gS[1].jpg
+0x000000003dd9a098      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\SWS0Y3JW\BBkyuXF[1].jpg
+0x000000003dd9a1a0      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\SWS0Y3JW\BBrQ6aa[1].png
+0x000000003dd9a460      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\DX6B7AOT\BB94O0v[1].png
+0x000000003dd9a5e0      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\DX6B7AOT\BBrNVCw[1].jpg
+0x000000003dd9a798      8      0 R--rw- \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\DX6B7AOT\GAtIyEb_c03[1].js
+0x000000003ddc0860      2      1 R--rwd \Device\HarddiskVolume2\Users\NC\Pictures
+0x000000003ddc7620      1      0 R--rw- \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\MDZDVDU3\px2fTQMFbxi[1].js
+0x000000003ddc9e10      1      1 RW-rw- \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Media Player\CurrentDatabase_372.wmdb
+0x000000003ddd0df8      1      1 -W-rw- \Device\HarddiskVolume2\Users\NC\AppData\Local\Temp\FXSAPIDebugLogFile.txt
+0x000000003ddd1468      8      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\QUC9Q4JU\BBrQcBQ[1].jpg
+0x000000003ddd17d0      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\QUC9Q4JU\BB5zMWq[1].png
+0x000000003ddd1990      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\QUC9Q4JU\nBocylo2MWn[2].css
+0x000000003ddd1a48      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\SWS0Y3JW\BBrKZVR[1].jpg
+0x000000003ddd2620      8      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\MDZDVDU3\BBrvDYQ[1].png
+0x000000003ddd26d8      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\MDZDVDU3\BBgHZmV[1].png
+0x000000003ddd2800      2      0 R--rwd \Device\HarddiskVolume2\Users\NC\Favorites\Links\Sites suggérés.url
+0x000000003ddd2d60      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\SWS0Y3JW\AA7RQ8L[1].jpg
+0x000000003ddd3038      8      0 R--rw- \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\QUC9Q4JU\m5QDGyZX8QU[1].js
+0x000000003ddd3468      8      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\MDZDVDU3\BBrK3I3[1].jpg
+0x000000003ddd3648      8      0 R--rw- \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Internet Explorer\DOMStore\WRV815VQ\www.facebook[1].xml
+0x000000003ddd3700      8      0 R--rw- \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\MDZDVDU3\kz1sMA2MmR1[1].js
+0x000000003ddd4698      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\QUC9Q4JU\BBnaCBz[1].png
+0x000000003ddd4880      8      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\DX6B7AOT\BBrMU1U[1].jpg
+0x000000003ddd5248      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\QUC9Q4JU\frame1[1].png
+0x000000003ddd5540      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Roaming\Microsoft\Windows\Cookies\nc@c.bing[2].txt
+0x000000003ddd5660      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\MDZDVDU3\BBrMAwe[1].jpg
+0x000000003ddd6920      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\SWS0Y3JW\BBrQHQm[1].jpg
+0x000000003ddd8750      2      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\5080DC7A65DB6A5960ECD874088F3328_2908F682DFC81A793BD240CF29711C77
+0x000000003ddd8b88      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\DX6B7AOT\BB6Pim6[1].png
+0x000000003ddd8c40      1      1 RW-rw- \Device\HarddiskVolume2\Users\NC\AppData\Roaming\Microsoft\Windows\PrivacIE\index.dat
+0x000000003dddddd0      5      0 R--r-d \Device\HarddiskVolume2\Windows\System32\MSMPEG2ENC.DLL
+0x000000003dde8418      2      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\D2B5168CDD0EBF4C0C8EA1C3A1FAE07F_4C0335AB18A2D352A43D4597D2C7964D
+0x000000003ddeadf0      1      1 RW-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Explorer\thumbcache_96.db
+0x000000003ddeb268      2      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\BC3EBA4E46329F29E449DFA191208FBF_29E65E52FA5652B81011FDC6ACED3ED6
+0x000000003ddef258      2      1 R--rwd \Device\HarddiskVolume2\Users\NC\Music
+0x000000003ddf11a0      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\MDZDVDU3\BB1s5OI[1].png
+0x000000003ddf1258      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\QUC9Q4JU\BBrMI5F[1].jpg
+0x000000003ddf1c10      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\SWS0Y3JW\AA8Wfh7[1].png
+0x000000003ddf1d90      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\SWS0Y3JW\BBrQ0xE[1].jpg
+0x000000003ddf2218      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\SWS0Y3JW\AA6nc6o[1].png
+0x000000003ddf24a0      2      0 R--rwd \Device\HarddiskVolume2\Users\NC\Downloads\desktop.ini
+0x000000003ddf2e80      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\SWS0Y3JW\BB1CUIU[1].png
+0x000000003ddf3308      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\DX6B7AOT\BBdxrSJ[1].jpg
+0x000000003ddf3410      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\SWS0Y3JW\BBrKVqh[1].jpg
+0x000000003ddf3608      2      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\5080DC7A65DB6A5960ECD874088F3328_6CBA2C06D5985DD95AE59AF8FC7C6220
+0x000000003ddf3928      2      0 R--rwd \Device\HarddiskVolume2\Users\NC\Saved Games\desktop.ini
+0x000000003ddf4038      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\DX6B7AOT\BBrI02j[1].jpg
+0x000000003ddf4130      8      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\MDZDVDU3\BBrNG18[1].jpg
+0x000000003ddf4728      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\MDZDVDU3\BBrLwK0[1].jpg
+0x000000003ddf4a70      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\DX6B7AOT\YaasNUqIE70[1].css
+0x000000003ddf4c90      8      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\DX6B7AOT\BBrNwpy[1].jpg
+0x000000003ddf5170      2      0 R--rwd \Device\HarddiskVolume2\Users\NC\Favorites\Links\Galerie de composants Web Slice.url
+0x000000003ddf5630      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\DX6B7AOT\frame2[1].png
+0x000000003ddf6960      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\DX6B7AOT\osd[1].xml
+0x000000003ddf73e0      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\QUC9Q4JU\msn[1].htm
+0x000000003ddf78e8      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\QUC9Q4JU\BBrHxSe[1].jpg
+0x000000003ddf7e10      1      0 R--rw- \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\DX6B7AOT\OJIhOkl_3ZX[1].js
+0x000000003ddf8610      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\DX6B7AOT\AA6nc7y[1].png
+0x000000003ddfa6c0      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\MDZDVDU3\background[1].png
+0x000000003ddfa828      2      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\705A76DE71EA2CAEBB8F0907449CE086_44866695AA3DB89B537AFBF31F6349D6
+0x000000003ddfd3d0      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\QUC9Q4JU\frame4[1].png
+0x000000003ddfd488      2      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\8059E9A0D314877E40FE93D8CCFB3C69_402F4BCACEBB78BD1C30D2F4748E9D53
+0x000000003ddfd540      2      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\8059E9A0D314877E40FE93D8CCFB3C69_0C0A2B387F15F1DE6E2D961CF49D3F67
+0x000000003ddfd910      2      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\8059E9A0D314877E40FE93D8CCFB3C69_546DDF532A24FF184FF3CC6598B20225
+0x000000003ddfda30      8      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\8890A77645B73478F5B1DED18ACBF795_1E5D470765E0BE1964814B1F5A3581DC
+0x000000003ddfdc18      8      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\82414F9D7AB8999991FFEB2BC378A4EB_38D56666351D269F7164E27288CE56DE
+0x000000003ddff620      2      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\23B523C9E7746F715D33C6527C18EB9D
+0x000000003ddff828      2      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\9A19ADAD9D098E039450ABBEDD5616EB_500F57EEC9E626F78EE636E0FA5E7AFB
+0x000000003ddffb90      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\SWS0Y3JW\frame5[1].png
+0x000000003ddffea8      2      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\8DFDF057024880D7A081AFBF6D26B92F
+0x000000003de0d1d8      8      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\MDZDVDU3\BBaNPwa[1].png
+0x000000003de0d320      1      1 RW-rw- \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\History\History.IE5\MSHist012016041720160418\index.dat
+0x000000003de0d998      8      0 RW---- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\5080DC7A65DB6A5960ECD874088F3328_C7B398B93BFA7397A840C520A0E096A2
+0x000000003de10348      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\SWS0Y3JW\BBpO6Gw[1].png
+0x000000003de11158      8      0 -W---- \Device\HarddiskVolume2\Users\NC\AppData\Roaming\Microsoft\Windows\Cookies\nc@adnxs[1].txt
+0x000000003de115a0      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\QUC9Q4JU\BBrOaMJ[1].jpg
+0x000000003de11dc0      2      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\DX6B7AOT\msn-showad-sprite[1].png
+0x000000003de20398      1      1 RW-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Explorer\thumbcache_256.db
+0x000000003de46388      2      0 R--rw- \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\SWS0Y3JW\IYjSWM75ToZ[1].js
+0x000000003de50c80      2      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\DX6B7AOT\800000206956[2].gif
+0x000000003de59820      2      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\60E31627FDA0A46932B0E5948949F2A5
+0x000000003de6bd88      8      0 RW-rw- \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Internet Explorer\MSIMGSIZ.DAT
+0x000000003de6c2d0      8      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\MDZDVDU3\BBrOXZ6[1].jpg
+0x000000003de6c4f0      1      1 RW-rw- \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Feeds\{5588ACFD-6436-411B-A5CE-666AE6A92D3D}~\WebSlices~\Sites suggérés~.feed-ms
+0x000000003de6c768      1      0 R--rw- \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\DX6B7AOT\bEVnzpa5H9b[1].js
+0x000000003de6cb78      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\QUC9Q4JU\BB93pZc[1].png
+0x000000003de6cc80      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\MDZDVDU3\BBrQaSG[1].jpg
+0x000000003de7be20      1      1 R--rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Feeds\FeedsStore.feedsdb-ms
+0x000000003de80a40      8      0 R--rw- \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\SWS0Y3JW\6BIg6iIeAia[1].js
+0x000000003de80c38      8      0 R--rw- \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\DX6B7AOT\Yhe4vXNo4yY[1].js
+0x000000003de9acf8      2      2 RW-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Explorer\thumbcache_32.db
+0x000000003de9b038      1      1 RW-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Explorer\thumbcache_sr.db
+0x000000003de9bb70      8      0 -W---- \Device\HarddiskVolume2\Users\NC\AppData\Roaming\Microsoft\Windows\Cookies\nc@facebook[2].txt
+0x000000003de9c760      8      0 R--rwd \Device\HarddiskVolume2\Users\NC\Music\desktop.ini
+0x000000003dea1ae8      7      0 R--r-d \Device\HarddiskVolume2\Program Files\RealVNC\VNC Server\vncserver.exe
+0x000000003deb69d8      1      1 RW-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Explorer\thumbcache_256.db
+0x000000003deb7578      1      1 RW-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Explorer\thumbcache_32.db
+0x000000003deb7f80      2      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\0CCA7F4B3366C6FAA13012C139D5D8C6_0220C4F699F0BD5DD8C387A2CE084987
+0x000000003debe528      2      2 RW-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Explorer\thumbcache_idx.db
+0x000000003debf8a0      2      1 ------ \Device\NamedPipe\RealVNC.Système.vncserver.vncagent.2043359702
+0x000000003debfdb8      1      1 RW-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Explorer\thumbcache_32.db
+0x000000003dec6380      2      1 ------ \Device\NamedPipe\RealVNC.vncservice.vncserver.CtrlComms
+0x000000003dec6570      2      1 ------ \Device\NamedPipe\RealVNC.vncservice.vncserver.CtrlComms
+0x000000003dec6628      2      1 ------ \Device\NamedPipe\RealVNC.vncservice.vncserver.CtrlComms
+0x000000003dec83a0      5      0 R--r-d \Device\HarddiskVolume2\Program Files\RealVNC\VNC Server\vncagent.exe
+0x000000003ded9350      2      0 RW-rw- \Device\HarddiskVolume2\Users\NC\AppData\Roaming\Microsoft\Windows\Recent\Flag (2).lnk
+0x000000003dedcaf0      2      1 ------ \Device\NamedPipe\RealVNC.Système.vncserver.vncagent.2043359702
+0x000000003dee1270      8      0 RW-r-- \Device\HarddiskVolume2\Users\NC\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\1b4dd67f29cb1962.automaticDestinations-ms
+0x000000003defc240      2      1 R--rwd \Device\HarddiskVolume2\Users\NC\Music
+0x000000003defc490      2      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\8059E9A0D314877E40FE93D8CCFB3C69_BE4F8FE3F9168165DD0D61270D1C79DD
+0x000000003defcf80      2      1 R--rwd \Device\HarddiskVolume2\Users\NC\Pictures
+0x000000003deff8e8      8      0 -W---- \Device\HarddiskVolume2\Users\NC\AppData\Roaming\Microsoft\Windows\Cookies\nc@adform[1].txt
+0x000000003df0aa88      8      0 RW---- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\ACF244F1A10D4DBED0D88EBA0C43A9B5_BA1AB6C2BDFDF57799E8116E4002D001
+0x000000003df19858      1      1 RWDrwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Temp\~DF410C31C802B1B80B.TMP
+0x000000003df19c48     17      1 RW---- \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Internet Explorer\Recovery\High\Active\RecoveryStore.{4086AB5E-046F-11E6-932B-000C2913A1D4}.dat
+0x000000003df1b4c0      1      1 RW-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Explorer\thumbcache_32.db
+0x000000003df1c1a8     10      1 RW-r-- \Device\HarddiskVolume2\Windows\System32\winevt\Logs\Microsoft-Windows-NCSI%4Operational.evtx
+0x000000003df2c038      2      1 R--rwd \Device\HarddiskVolume2\Users\NC\Desktop
+0x000000003df319b8      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\DX6B7AOT\async_usersync[1]
+0x000000003df3d3d0      8      0 RW-r-- \Device\HarddiskVolume2\Users\NC\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\b3f13480c2785ae.automaticDestinations-ms
+0x000000003df43498      2      1 RW-rw- \Device\clfs\Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\UsrClass.dat{bba63b0f-c812-11e5-aa02-000c2913a1d4}.TM
+0x000000003df47220      1      1 RW-rw- \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\History\History.IE5\index.dat
+0x000000003df47718      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\MDZDVDU3\661630[1].js
+0x000000003df49a48      2      0 R--rwd \Device\HarddiskVolume2\Users\NC\Favorites\Links\desktop.ini
+0x000000003df4a370      8      0 R--rwd \Device\HarddiskVolume2\Users\NC\Favorites\desktop.ini
+0x000000003df4a510      1      1 RWDrwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Temp\~DF576133EA79C0D716.TMP
+0x000000003df4a868      8      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Internet Explorer\frameiconcache.dat
+0x000000003df5c590      2      1 R--rwd \Device\HarddiskVolume2\Users\NC\AppData\Roaming\Microsoft\Windows\Network Shortcuts
+0x000000003df7d588      2      1 RW-rw- \Device\clfs\Device\HarddiskVolume2\Users\NC\NTUSER.DAT{6cced2f1-6e01-11de-8bed-001e0bcd1824}.TM
+0x000000003df7d870      1      1 RW-rwd \Device\clfs\Device\HarddiskVolume2\Users\NC\NTUSER.DAT{6cced2f1-6e01-11de-8bed-001e0bcd1824}.TM
+0x000000003df82330      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\MDZDVDU3\hzMapiNYYpW[3].ico
+0x000000003df82cc8      3      0 R--r-d \Device\HarddiskVolume2\Windows\System32\wbem\NCProv.dll
+0x000000003df8b6d0      1      1 RW-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Explorer\thumbcache_idx.db
+0x000000003df8b818      3      1 R--rwd \Device\HarddiskVolume2\Users\NC\AppData\Roaming\Microsoft\SystemCertificates\My
+0x000000003df8ca78      2      1 R--rwd \Device\HarddiskVolume2\Users\NC\Links
+0x000000003df8dd68      2      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\5080DC7A65DB6A5960ECD874088F3328_BC00434159DAE8351451CCE9C748F5D7
+0x000000003df91798      1      1 RW-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Explorer\thumbcache_sr.db
+0x000000003df9fad0      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\QUC9Q4JU\BBih5H[1].png
+0x000000003df9ff80      8      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\DX6B7AOT\eb52c9[1].eot
+0x000000003dfd4f80      2      2 RW-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Explorer\thumbcache_sr.db
+0x000000003dfd9f80      2      2 RW-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Explorer\thumbcache_96.db
+0x000000003dfdc038      2      2 RW-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Explorer\thumbcache_256.db
+0x000000003dfdcb80      2      2 RW-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Explorer\thumbcache_idx.db
+0x000000003dfe3470      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\QUC9Q4JU\adfserve[1]
+0x000000003dfe5e88      1      1 R--rw- \Device\HarddiskVolume2\Users\NC\Desktop
+0x000000003dfe8728      2      0 -W---- \Device\HarddiskVolume2\Users\NC\AppData\Roaming\Microsoft\Windows\Cookies\nc@server.adformdsp[1].txt
+0x000000003dfe8bc0      8      0 R--rw- \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Internet Explorer\DOMStore\PQ5GRPO6\www.msn[1].xml
+0x000000003dfe8da0      8      0 R--rw- \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\MDZDVDU3\jquery-1.11.1.min[1].js
+0x000000003dfe90d0      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\QUC9Q4JU\bzxSxXzIFV2[2].css
+0x000000003dfea830      8      0 R--rw- \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\MDZDVDU3\57-b22b3e-91cdfbc1[1].txt
+0x000000003dfeb110      1      1 RW-rw- \Device\HarddiskVolume2\Users\NC\AppData\Roaming\Microsoft\Windows\Cookies\index.dat
+0x000000003dfec910     17      1 RW---- \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Internet Explorer\Recovery\High\Active\{4086AB5F-046F-11E6-932B-000C2913A1D4}.dat
+0x000000003dfecef0      2      1 R--rwd \Device\HarddiskVolume2\Users\NC\Favorites\Links
+0x000000003dfed5e8      2      1 R--rwd \Device\HarddiskVolume2\Users\NC\Favorites\Links
+0x000000003dfed708      1      1 RW-rw- \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Feeds Cache\index.dat
+0x000000003dfee350      8      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\SWS0Y3JW\973841[1].eot
+0x000000003dfeef80      9      1 RW-rw- \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Internet Explorer\DOMStore\index.dat
+0x000000003dfef398      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Roaming\Microsoft\Windows\Cookies\nc@c.msn[1].txt
+0x000000003dfeff80      8      0 R--rw- \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\QUC9Q4JU\7d-3e0e9a-6ad828bd[1]
+0x000000003dff9968      9      1 RW-rw- \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Feeds Cache\index.dat
+0x000000003dffa998      3      1 R--rwd \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData
+0x000000003dffb8c0      3      1 R--rwd \Device\HarddiskVolume2\Users\NC\AppData\Roaming\Microsoft\SystemCertificates\My
+0x000000003dffc990      8      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\SWS0Y3JW\BBrQX02[1].jpg
+0x000000003dffce78      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\MDZDVDU3\e151e5[1].gif
+0x000000003dffe1a0      2      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\E4F76C0C82655FD6506668127FA0ACD1_EB241F56E637416AA64BF59C8DBA6714
+0x000000003dffec50      8      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\SWS0Y3JW\BBrPOh1[1].jpg
+0x000000003e0510b0      3      1 RWDrwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Temp\~DF993DE619B3A0B9B1.TMP
+0x000000003e079c50      2      1 R--rwd \Device\HarddiskVolume2\Users\NC\Favorites
+0x000000003e079d08      2      1 R--rwd \Device\HarddiskVolume2\Users\NC\Favorites
+0x000000003e07a640      7      1 RW-rw- \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\AntiPhishing\2CEDBFBC-DBA8-43AA-B1FD-CC8E6316E3E2.dat
+0x000000003e07bf80      2      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\12B9DB160AD5C40A43865B2B20626F11_9133AAF3656E4B8DD3C323A275896F4B
+0x000000003e080990      3      1 RWDrwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Temp\~DF143AFA9E897E3CC5.TMP
+0x000000003e080a68      5      0 RW-rw- \Device\HarddiskVolume2\Users\NC\AppData\Roaming\Microsoft\Windows\PrivacIE\index.dat
+0x000000003e084dd0      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\DX6B7AOT\661631[1].js
+0x000000003e0b36d8      1      0 R--rwd \Device\HarddiskVolume2\Users\NC\AppData\Roaming\Microsoft\Windows\SendTo\Transfert de fichiers Bluetooth.LNK
+0x000000003e0b6c10      2      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\66AE3BFDF94A732B262342AD2154B86E_502BB733848926DD3139F2342144B39C
+0x000000003e0cdae8      3      1 R--rwd \Device\HarddiskVolume2\Users\NC\AppData\Roaming\Microsoft\SystemCertificates\My
+0x000000003e0db7f0      2      0 RW-rw- \Device\HarddiskVolume2\Users\NC\AppData\Roaming\Microsoft\Windows\Recent\Temp.lnk
+0x000000003e0db8a8      8      0 RW-r-- \Device\HarddiskVolume2\Users\NC\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\290532160612e071.automaticDestinations-ms
+0x000000003e103888      3      1 R--rwd \Device\HarddiskVolume2\Users\NC\AppData\Roaming\Microsoft\Windows\Start Menu
+0x000000003e112980      2      0 R--rw- \Device\HarddiskVolume2\Users\NC\AppData\Roaming\WinRAR\version.dat
+0x000000003e115cd0      8      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\Content\94308059B57B3142E455B38A6EB92015
+0x000000003e116b70      1      1 RW-rw- \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\History\History.IE5\index.dat
+0x000000003e118508     10      1 R--rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Feeds\{5588ACFD-6436-411B-A5CE-666AE6A92D3D}~\WebSlices~\Galerie de composants Web Slice~.feed-ms
+0x000000003e1277f0      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\SWS0Y3JW\format[1].js
+0x000000003e135b08      1      1 RW-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Explorer\thumbcache_idx.db
+0x000000003e151640      2      0 -W---- \Device\HarddiskVolume2\Users\NC\AppData\Roaming\Microsoft\Windows\Cookies\nc@nspmotion[2].txt
+0x000000003e15edb8      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\MDZDVDU3\BBrPJWO[1].jpg
+0x000000003e15ef38      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\SWS0Y3JW\BBrQUPC[1].jpg
+0x000000003e161df0      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\SWS0Y3JW\Adform.WriteHelper[1].js
+0x000000003e17f860      1      1 RW-rw- \Device\HarddiskVolume2\Users\NC\AppData\Roaming\Microsoft\Windows\Cookies\index.dat
+0x000000003e18ed38      8      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\DX6B7AOT\BBrPSmO[1].jpg
+0x000000003e18ef80      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\MDZDVDU3\adfstub[1]
+0x000000003e1e2308      1      1 RW-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Explorer\thumbcache_96.db
+0x000000003e1eaac0      1      0 R--rwd \Device\HarddiskVolume2\Users\NC\Links\desktop.ini
+0x000000003e1f1c50      8      0 R--rw- \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\SWS0Y3JW\chartbeat[1].js
+0x000000003e1f1da8      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\SWS0Y3JW\BB4tbbB[2].png
+0x000000003e1fd9f0      2      1 R--rwd \Device\HarddiskVolume2\Users\NC\AppData\Roaming\Microsoft\Windows\Network Shortcuts
+0x000000003f22c7a0      9      1 RW-rw- \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\History\History.IE5\MSHist012016041720160418\index.dat
+0x000000003f2c5038      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\QUC9Q4JU\BB2Ec37[1].png
+0x000000003f2c5348      2      0 R--r-d \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\DX6B7AOT\BB3o3Em[1].png
+0x000000003f2d19e0      8      0 -W-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\DX6B7AOT\ContainerTag[3].js
+0x000000003f2fc330      2      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\1DAF2884EC4DFA96BA4A58D4DBC9C406
+0x000000003f37f828      2      1 RW-r-- \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\UsrClass.dat{bba63b0f-c812-11e5-aa02-000c2913a1d4}.TMContainer00000000000000000001.regtrans-ms
+0x000000003f37f978      1      1 RW-rwd \Device\clfs\Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\UsrClass.dat{bba63b0f-c812-11e5-aa02-000c2913a1d4}.TM
+0x000000003f380300      2      1 RW-r-- \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\UsrClass.dat{bba63b0f-c812-11e5-aa02-000c2913a1d4}.TMContainer00000000000000000002.regtrans-ms
+0x000000003f5c23e8      3      0 R--r-d \Device\HarddiskVolume2\Windows\System32\VNCpm.dll
+0x000000003fa47f80      1      1 RW-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Explorer\thumbcache_96.db
+0x000000003fa4af80      1      1 RW-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Explorer\thumbcache_1024.db
+0x000000003fa4bf80      2      0 R--rwd \Device\HarddiskVolume2\Users\NC\Videos\desktop.ini
+0x000000003fa5deb0      1      1 RW-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Explorer\thumbcache_256.db
+0x000000003fa5e9f0      9      1 RW-rw- \Device\HarddiskVolume2\Users\NC\AppData\Roaming\Microsoft\Windows\Cookies\index.dat
+0x000000003fa5ebf0      8      1 RW-rw- \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\index.dat
+0x000000003fd7f3c8      8      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\D47DBD2F9E3365FBBE008D71FB06716F_D33192D58AA9CA2B9097E848E9FE86DE
+0x000000003fd7f5d8      2      0 R--r-- \Device\HarddiskVolume2\Users\NC\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\A1377F7115F1F126A15360369B165211
+0x000000003fde8b10      2      2 RW-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Explorer\thumbcache_1024.db
+0x000000003ff28038      1      1 RW-rwd \Device\HarddiskVolume2\Users\NC\AppData\Local\Microsoft\Windows\Explorer\thumbcache_1024.db

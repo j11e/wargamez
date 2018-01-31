@@ -1,0 +1,15 @@
+pslist => paint pid = 4084
+
+memdump to 4084.dmp
+
+rename to 4084.data
+
+open w/ GIMP
+
+resize to 1920x1080 in "Load Image from RAW data" window
+
+navigate the memory dump with the offset dial
+
+find the Paint window
+
+read the flag.

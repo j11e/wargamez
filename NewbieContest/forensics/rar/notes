@@ -1,0 +1,43 @@
+⇒ volatility -f c457db65d435c8e86e30483a482125ae imageinfo
+
+Volatility Foundation Volatility Framework 2.6
+INFO    : volatility.debug    : Determining profile based on KDBG search...
+          Suggested Profile(s) : Win7SP1x86_23418, Win7SP0x86, Win7SP1x86
+                     AS Layer1 : IA32PagedMemoryPae (Kernel AS)
+                     AS Layer2 : FileAddressSpace (/home/jd/merdouilles/wargames/NewbieContest/forensics/visage/c457db65d435c8e86e30483a482125ae)
+                      PAE type : PAE
+                           DTB : 0x185000L
+                          KDBG : 0x82b61c28L
+          Number of Processors : 1
+     Image Type (Service Pack) : 1
+                KPCR for CPU 0 : 0x82b62c00L
+             KUSER_SHARED_DATA : 0xffdf0000L
+           Image date and time : 2016-04-17 07:38:29 UTC+0000
+     Image local date and time : 2016-04-17 09:38:29 +0200
+
+
+
+⇒  volatility -f c457db65d435c8e86e30483a482125ae --profil=Win7SP1x86 pslist
+
+[...]
+0x86e270f8 WinRAR.exe             2228   2904      6      194      1      0 2016-04-17 07:37:31 UTC+0000                                 
+
+⇒  volatility -f c457db65d435c8e86e30483a482125ae --profile=Win7SP1x86 memdump --pid 2228 -D rarDump
+
+⇒  strings rarDump/2228.dmp | less
+
+[...]
+"C:\Program Files\WinRAR\WinRAR.exe" "C:\Temp\Flag.rar"
+
+
+opening the dump with GIMP shows that the flag.txt file contained in the rar archive is just 19 bytes.
+
+
+FINALLY THE RIGHT WAY
+
+filescan | grep -i "flag.rar"
+    0x000000003f22a930      2      0 R--r-- \Device\HarddiskVolume2\Temp\Flag.rar
+
+volatility -f c457db65d435c8e86e30483a482125ae --profile=Win7SP1x86 dumpfiles --dump-dir files --physoffset=0x000000003f22a930
+
+rename the  dump file to dump.rar, extract it, done

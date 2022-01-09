@@ -51,7 +51,6 @@ func (m HeightMatrix) ExpandBasin(b Basins, lp Elem) (Basins, int) {
 	n := m.Neighbors(lp)
 	c := 1
 
-	// for _, e := range n {
 	for i := 0; i < len(n); i++ {
 		e := n[i]
 		if _, ok := b[e]; ok {
